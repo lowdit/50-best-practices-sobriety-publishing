@@ -1,8 +1,10 @@
 # Les 50 règles de Sobriété éditoriale
 
+Lien vers le site du référentiel : <https://www.sobriete-editoriale.fr/referentiel-conformite-sobriete-editoriale/>
+
 ## Licence
 
-Cette liste de règles est extraite du référentiel intialement publié par Ferréole Lespinasse / Cyclop Éditorial chez Publishroom sous le titre "Sobriété éditorial 1. 50 bonnes pratiques pour écoconcevoir vos contenus web" en mai 2022, avec le soutien de GreenIT.fr et du Collectif du Numérique Responsable.
+Cette liste de règles est extraite du référentiel intialement publié par Ferréole Lespinasse / Cyclop Éditorial chez Publishroom sous le titre "Sobriété éditorial" : 50 bonnes pratiques pour écoconcevoir vos contenus web" en mai 2022, avec le soutien de GreenIT.fr et du Collectif du Numérique Responsable.
 
 Licence Licence CC-By-NC-ND
 
@@ -28,7 +30,7 @@ Il s’agit de l’étape de production.
  * L’étape de structuration vise à catégoriser toutes les informations collectées
  * L’étape de rédaction concerne l’écriture.
  * L’étape d’optimisation concerne le référencement des pages, les micro-contenus de navigation et la mise en page du contenu.
- * Enfin, l’étape de gouvernance éditorial 1. cette étape concerne le dispositif de communication, le pilotage du cycle de vie du contenu et l’analyse de la performance du contenu.
+ * Enfin, l’étape de gouvernance éditoriale : cette étape concerne le dispositif de communication, le pilotage du cycle de vie du contenu et l’analyse de la performance du contenu.
 
 **Catégorie :**
 
@@ -42,9 +44,9 @@ Exemple : Message, texte, information, graphisme, confort de lecture, balisage H
 
 **Facilité de mise en œuvre :**
 
- 1. Facile : La mise en œuvre est facile * Elle ne nécessite pas de compétences particulières.
- 1. Standard : N’importe quel prestataire peut effectuer cette pratique * En interne, elle est atteignable par une montée en compétences.
- 1. Difficile : La mise en œuvre de cette pratique nécessite un niveau d’expertise élevé * Un accompagnement avec un prestataire doté d’une vision stratégique est à prévoir.
+ 1. Facile : La mise en œuvre est facile - Elle ne nécessite pas de compétences particulières.
+ 1. Standard : N’importe quel prestataire peut effectuer cette pratique - En interne, elle est atteignable par une montée en compétences.
+ 1. Difficile : La mise en œuvre de cette pratique nécessite un niveau d’expertise élevé - Un accompagnement avec un prestataire doté d’une vision stratégique est à prévoir.
 
 **Capacité à réduire la charge mentale :**
 
